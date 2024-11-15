@@ -1,0 +1,9 @@
+心率血氧检测，并显示在OLED
+
+OLED:
+	SCL- PB10
+	SDA-PB11
+MAX30102
+	SCL-PB6
+	SDA-PB7
+	INT-PB9

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "mlx90614.h": "c",
+        "stm32f10x.h": "c",
+        "oledfont.h": "c"
+    }
+}
